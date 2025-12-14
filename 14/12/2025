@@ -1,0 +1,9 @@
+
+2. Comparison of Approaches
+Feature 	       Recursion	                        Iteration
+Implementation	 Function calls itself	            Uses loop constructs
+Memory	         High(uses call stack frames)	      Low (constant space if no extra data structures)
+Speed	           Slower (overhead of method calls)	Faster (no call overhead)
+Code Style	     Often shorter and more elegant	    Can be longer and more complex
+Risk          	 Stack Overflow if too deep	        Infinite loops if condition never fails
+
